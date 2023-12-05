@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Storages\Visual Studio Projects\DigitRestaurantClient\DigitRestaurantClient\Assets\Icons\DigitRestaurant.png</Source>
+    <SmallTileSource>C:\Storages\Visual Studio Projects\DigitRestaurantClient\DigitRestaurantClient\Assets\Icons\DigitRestaurant.png</SmallTileSource>
+    <MediumTileSource>C:\Storages\Visual Studio Projects\DigitRestaurantClient\DigitRestaurantClient\Assets\Icons\DigitRestaurant.png</MediumTileSource>
+    <WideTileSource>C:\Storages\Visual Studio Projects\DigitRestaurantClient\DigitRestaurantClient\Assets\Icons\DigitRestaurant.png</WideTileSource>
+    <LargeTileSource>C:\Storages\Visual Studio Projects\DigitRestaurantClient\DigitRestaurantClient\Assets\Icons\DigitRestaurant.png</LargeTileSource>
+    <AppIconSource>C:\Storages\Visual Studio Projects\DigitRestaurantClient\DigitRestaurantClient\Assets\Icons\DigitRestaurant.png</AppIconSource>
+    <SplashScreenSource>C:\Storages\Visual Studio Projects\DigitRestaurantClient\DigitRestaurantClient\Assets\Icons\DigitRestaurant.png</SplashScreenSource>
+    <BadgeLogoSource>C:\Storages\Visual Studio Projects\DigitRestaurantClient\DigitRestaurantClient\Assets\Icons\DigitRestaurant.png</BadgeLogoSource>
+    <PackageLogoSource>C:\Storages\Visual Studio Projects\DigitRestaurantClient\DigitRestaurantClient\Assets\Icons\DigitRestaurant.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>
